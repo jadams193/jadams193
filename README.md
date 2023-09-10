@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jadams193
-- 👀 I’m interested in ... coding and programming
+- 👀 I’m interested in ... coding
 - 🌱 I’m currently learning ...software development and programming
 - 💞️ I’m looking to collaborate on ... learning something new!
 - 📫 How to reach me ... on here :)
